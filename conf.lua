@@ -6,9 +6,9 @@ function love.conf(t)
 	t.audio.mic = true
 	t.window.title = "Alec Bones Dies"
 	--- t.window.icon = "icon/game_icon.jpg"
-	t.window.width = 800
+	t.window.width = 1200
 	t.window.height = 800
-	--- t.window.resizable = true
+	t.window.resizable = true
 	--- t.minwidth = 200
 	--- t.minheight = 200
 	--- t.window.borderless = true
